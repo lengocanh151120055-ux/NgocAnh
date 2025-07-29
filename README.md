@@ -8,7 +8,7 @@
 </head>
 <body>
   <header>
-    <h1>🔌 Điện Máy Xanh Mini</h1>
+    <h1>🔌 Điện Máy Xanh </h1>
     <nav>
       <a href="#">Trang chủ</a>
       <a href="#">Sản phẩm</a>
